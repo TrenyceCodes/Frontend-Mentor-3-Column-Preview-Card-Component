@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github Live site](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-8R7R6Ijw9N)
+- Live Site URL: [Github Live site](https://frontend-mentor-3-column-preview-card-component-teal.vercel.app/)
 
 ## My process
 
