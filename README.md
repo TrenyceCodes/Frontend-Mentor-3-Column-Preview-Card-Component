@@ -24,7 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1435" alt="Screenshot 2023-05-13 at 9 04 19 PM" src="https://github.com/Neice76/Frontend-Mentor-3-Column-Preview-Card-Component/assets/52137719/217ae7e3-f27a-47bd-925a-fca172489c73">
+<img width="424" alt="Screenshot 2023-05-13 at 9 05 05 PM" src="https://github.com/Neice76/Frontend-Mentor-3-Column-Preview-Card-Component/assets/52137719/8d24d43a-b6f4-4fd1-94c8-ef2e4836d8b6">
+<img width="424" alt="Screenshot 2023-05-13 at 9 05 16 PM" src="https://github.com/Neice76/Frontend-Mentor-3-Column-Preview-Card-Component/assets/52137719/23027dfd-205c-41c4-9a92-3b64b54ea0ca">
 
 ### Links
 
@@ -47,6 +49,6 @@ I learned how to make my design responsive
 
 ## Author
 
-- Website - [Hashnode](https://www.your-site.com)
-- Frontend Mentor - [@Neice76](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@Neice76](https://www.twitter.com/yourusername)
+- Website - [Hashnode](https://neice76.hashnode.dev/)
+- Frontend Mentor - [@Neice76](https://www.frontendmentor.io/profile/neice76)
+- Github - [@Neice76](https://github.com/Neice76)
